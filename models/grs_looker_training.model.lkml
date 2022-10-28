@@ -26,3 +26,4 @@ persist_with: grs_looker_training_default_datagroup
 # Each joined view also needs to define a primary key.
 
 explore: spotify_dataset {}
+explore: netflix_dataset {}
